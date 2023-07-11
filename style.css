@@ -570,10 +570,10 @@ footer .copyright {
     font-weight: 600;
 }
 
-#pagination a span {
-    font-size: 24px;
-    font-weight: 600;
+.section-p1 span {
+    vertical-align: middle;
 }
+  
 
 
 /* Single Product */
